@@ -22,3 +22,5 @@ basic server built with 'best practices'
     - 500 handler.  
   - getPerson,
   - JSON response
+- defined tests in `__tests__/server.test.js`.
+- added github actions.
